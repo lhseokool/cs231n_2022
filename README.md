@@ -1,1 +1,1 @@
-# cs231n_2022
+# cs231n Assignment Solutions (2022)
